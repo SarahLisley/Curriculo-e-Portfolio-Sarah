@@ -32,7 +32,7 @@ No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias 
 	<tr>
 		<td width="50%" valign="top">
 			<strong>Atuação atual</strong>
-			<p>Vínculo profissional com a <strong>OSF Digital</strong> e experiência como desenvolvedora Full-stack no Núcleo de Práticas de Informática da UFC.</p>
+			<p>Experiência como <strong>Desenvolvedora Full-stack</strong> no Núcleo de Práticas de Informática da UFC e na <strong>Bravo Tecnologia e Inovação</strong>.</p>
 		</td>
 		<td width="50%" valign="top">
 			<strong>Conquista acadêmica</strong>
@@ -63,7 +63,7 @@ No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias 
 		<td width="33%" valign="top">
 			<strong>Bravo Tecnologia e Inovação</strong><br />
 			<small>2026</small>
-			<p>Estagiária desenvolvedora full-stack em sistemas web corporativos, com TypeScript, React, Next.js, Node.js, SQL, APIs, testes e Figma.</p>
+			<p>Desenvolvedora Full-stack em sistemas web corporativos, com TypeScript, React, Next.js, Node.js, SQL, APIs, testes e Figma.</p>
 		</td>
 		<td width="33%" valign="top">
 			<strong>Universidade Federal do Ceará</strong><br />
