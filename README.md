@@ -155,14 +155,12 @@ No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias 
 		<td width="50%" valign="top">
 			<h3><a href="https://github.com/SarahLisley/NutriLivre03">Nutri Livre</a></h3>
 			<p>Aplicativo mobile desenvolvido no curso de Sistemas de Informação da UFC para apoiar o planejamento de dietas flexíveis, o registro de refeições e o controle de macronutrientes.</p>
-			<p><strong>Linguagens:</strong> não identificadas no repositório público</p>
 			<img src="https://img.shields.io/badge/Projeto%20mobile-7F52FF?style=flat-square&logo=android&logoColor=white" alt="Projeto mobile" />
 			<p><strong>Status:</strong> Concluído · <strong>Área:</strong> Desenvolvimento</p>
 		</td>
 		<td width="50%" valign="top">
 			<h3><a href="https://github.com/SarahLisley/Documento-de-Requisitos-Manual-do-AlertAlergo">AlertAlergo</a></h3>
 			<p>Projeto voltado à identificação e comunicação de alergias em contexto de saúde, com foco em requisitos, Design Thinking, protótipos, regras de negócio e documentação técnica.</p>
-			<p><strong>Linguagens:</strong> documentação de requisitos; código não identificado no repositório público</p>
 			<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 			<img src="https://img.shields.io/badge/Documenta%C3%A7%C3%A3o-4BA3C7?style=flat-square&logo=readthedocs&logoColor=white" alt="Documentação de requisitos" />
 			<p><strong>Status:</strong> Em andamento · <strong>Área:</strong> Engenharia de Requisitos</p>
@@ -172,14 +170,12 @@ No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias 
 		<td width="50%" valign="top">
 			<h3>UFC++ Verde</h3>
 			<p>Projeto de desenvolvimento de um sistema de automação para aquários, com organização de backlog, aplicação de Scrum, reuniões diárias e acompanhamento de sprints.</p>
-			<p><strong>Linguagens:</strong> não identificadas no portfólio público</p>
 			<img src="https://img.shields.io/badge/Projeto%20acad%C3%AAmico-4BA3C7?style=flat-square&logo=googlescholar&logoColor=white" alt="Projeto acadêmico" />
 			<p><strong>Status:</strong> Concluído · <strong>Área:</strong> Desenvolvimento e inovação</p>
 		</td>
 		<td width="50%" valign="top">
 			<h3>Acha AI</h3>
 			<p>Projeto de extensão concluído, desenvolvido em parceria no contexto universitário.</p>
-			<p><strong>Linguagens:</strong> não identificadas no portfólio público</p>
 			<img src="https://img.shields.io/badge/Extens%C3%A3o-4BA3C7?style=flat-square&logo=googleclassroom&logoColor=white" alt="Projeto de extensão" />
 			<p><strong>Status:</strong> Concluído · <strong>Área:</strong> Extensão</p>
 		</td>
