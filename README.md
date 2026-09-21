@@ -122,10 +122,11 @@ No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias 
 
 <div align="center">
 
-<img src="https://img.shields.io/github/public-repos/SarahLisley?style=for-the-badge&label=Reposit%C3%B3rios%20p%C3%BAblicos&color=4BA3C7" alt="Repositórios públicos" />
-<img src="https://img.shields.io/github/followers/SarahLisley?style=for-the-badge&label=Seguidores&color=D4AF37" alt="Seguidores" />
-<img src="https://img.shields.io/github/following/SarahLisley?style=for-the-badge&label=Seguindo&color=172B3A" alt="Pessoas seguindo" />
-<a href="https://github.com/SarahLisley?tab=repositories"><img src="https://img.shields.io/badge/Explorar%20todos%20os%20projetos-GitHub-8ED8F8?style=for-the-badge&logo=github&logoColor=172B3A" alt="Explorar todos os projetos no GitHub" /></a>
+<strong>37</strong> repositórios públicos &nbsp; · &nbsp; <strong>3</strong> seguidores &nbsp; · &nbsp; <strong>6</strong> seguindo
+
+<br />
+
+<a href="https://github.com/SarahLisley?tab=repositories">Explorar todos os projetos no GitHub</a>
 
 </div>
 
@@ -204,14 +205,11 @@ No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias 
 
 <div align="center">
 
-<img src="https://img.shields.io/github/public-repos/SarahLisley?style=for-the-badge&label=Reposit%C3%B3rios%20p%C3%BAblicos&color=4BA3C7" alt="Repositórios públicos de Sarah Lisley" />
-<img src="https://img.shields.io/github/followers/SarahLisley?style=for-the-badge&label=Seguidores&color=D4AF37" alt="Seguidores de Sarah Lisley" />
-<img src="https://img.shields.io/github/following/SarahLisley?style=for-the-badge&label=Seguindo&color=172B3A" alt="Pessoas que Sarah Lisley segue" />
-<a href="https://github.com/SarahLisley?tab=repositories"><img src="https://img.shields.io/badge/Ver%20todos%20os%20projetos-GitHub-8ED8F8?style=for-the-badge&logo=github&logoColor=172B3A" alt="Ver todos os projetos de Sarah Lisley no GitHub" /></a>
+<strong>37</strong> repositórios públicos &nbsp; · &nbsp; <strong>3</strong> seguidores &nbsp; · &nbsp; <strong>6</strong> seguindo &nbsp; · &nbsp; <strong>253</strong> contribuições no último ano
 
 <br />
 
-<a href="https://github.com/SarahLisley?tab=overview"><img src="https://img.shields.io/badge/Contribui%C3%A7%C3%B5es-Ver%20perfil%20completo-4BA3C7?style=for-the-badge&logo=github&logoColor=white" alt="Ver contribuições no perfil completo" /></a>
+<a href="https://github.com/SarahLisley?tab=repositories">Ver todos os projetos</a> &nbsp; · &nbsp; <a href="https://github.com/SarahLisley?tab=overview">Ver atividade e contribuições</a>
 
 </div>
 
