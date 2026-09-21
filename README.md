@@ -32,7 +32,7 @@ No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias 
 	<tr>
 		<td width="50%" valign="top">
 			<strong>Atuação atual</strong>
-			<p>Experiência como <strong>Desenvolvedora Full-stack</strong> no Núcleo de Práticas de Informática da UFC e na <strong>Bravo Tecnologia e Inovação</strong>.</p>
+			<p>Experiência como <strong>Desenvolvedora Full-stack</strong> no <strong>Núcleo de Práticas de Informática da UFC</strong> e na <strong>Bravo Tecnologia e Inovação</strong>.</p>
 		</td>
 		<td width="50%" valign="top">
 			<strong>Conquista acadêmica</strong>
