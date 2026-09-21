@@ -211,7 +211,7 @@ No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias 
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=SarahLisley&hide_border=true&background=FFFFFF&ring=4BA3C7&fire=D4AF37&currStreakLabel=4BA3C7&sideLabels=52616B&dates=7C8A93&currStreakNum=172B3A&sideNums=172B3A" alt="GitHub streak" />
+<a href="https://github.com/SarahLisley?tab=overview"><img src="https://img.shields.io/badge/Contribui%C3%A7%C3%B5es-Ver%20perfil%20completo-4BA3C7?style=for-the-badge&logo=github&logoColor=white" alt="Ver contribuições no perfil completo" /></a>
 
 </div>
 
