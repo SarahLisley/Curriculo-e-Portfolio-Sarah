@@ -149,8 +149,10 @@ No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SarahLisley&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=4BA3C7&icon_color=D4AF37&text_color=52616B&bg_color=FFFFFF" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahLisley&layout=compact&hide_border=true&langs_count=8&title_color=4BA3C7&text_color=52616B&bg_color=FFFFFF" alt="Principais linguagens" />
+<img src="https://img.shields.io/github/commit-activity/y/SarahLisley/Curriculo-e-Portfolio-Sarah?style=for-the-badge&label=Commits%20no%20%C3%BAltimo%20ano&color=4BA3C7" alt="Commits no último ano" />
+<img src="https://img.shields.io/github/languages/count/SarahLisley/Curriculo-e-Portfolio-Sarah?style=for-the-badge&label=Linguagens&color=D4AF37" alt="Quantidade de linguagens" />
+<img src="https://img.shields.io/github/last-commit/SarahLisley/Curriculo-e-Portfolio-Sarah?style=for-the-badge&label=%C3%9Altimo%20commit&color=172B3A" alt="Último commit" />
+<img src="https://img.shields.io/github/repo-size/SarahLisley/Curriculo-e-Portfolio-Sarah?style=for-the-badge&label=Tamanho%20do%20reposit%C3%B3rio&color=8ED8F8" alt="Tamanho do repositório" />
 
 <br />
 
@@ -162,7 +164,8 @@ No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SarahLisley&bg_color=ffffff&color=52616b&line=4ba3c7&point=d4af37&area=true&hide_border=true" alt="Gráfico de atividade no GitHub" width="96%" />
+<a href="https://github.com/SarahLisley/Curriculo-e-Portfolio-Sarah/commits/main"><img src="https://img.shields.io/github/commit-activity/m/SarahLisley/Curriculo-e-Portfolio-Sarah?style=for-the-badge&label=Atividade%20mensal&color=4BA3C7" alt="Atividade mensal no GitHub" /></a>
+<a href="https://github.com/SarahLisley/Curriculo-e-Portfolio-Sarah/graphs/commit-activity"><img src="https://img.shields.io/badge/Ver%20gr%C3%A1fico%20completo-no%20GitHub-172B3A?style=for-the-badge&logo=github&logoColor=white" alt="Ver gráfico completo no GitHub" /></a>
 
 </div>
 
@@ -170,7 +173,9 @@ No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SarahLisley&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" width="96%" />
+<img src="https://img.shields.io/github/followers/SarahLisley?style=for-the-badge&label=Seguidores&color=4BA3C7" alt="Seguidores no GitHub" />
+<img src="https://img.shields.io/github/stars/SarahLisley/Curriculo-e-Portfolio-Sarah?style=for-the-badge&label=Estrelas%20no%20portf%C3%B3lio&color=D4AF37" alt="Estrelas no portfólio" />
+<img src="https://img.shields.io/badge/Perfil-em%20evolu%C3%A7%C3%A3o-172B3A?style=for-the-badge&logo=github&logoColor=white" alt="Perfil em evolução" />
 
 </div>
 
