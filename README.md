@@ -14,7 +14,7 @@
 
 ## Sobre mim
 
-Sou **Sarah Lisley Saraiva Soares**, graduanda em **Sistemas de Informação pela Universidade Federal do Ceará (UFC)** e técnica em Informática. Minha atuação transita entre a descoberta do problema, a definição da solução e o desenvolvimento de produtos digitais.
+Sou **Sarah Lisley Saraiva Soares**, **Analista de Projetos e Processos**, graduanda em **Sistemas de Informação pela Universidade Federal do Ceará (UFC)** e técnica em Informática. Minha atuação conecta Engenharia de Requisitos, desenvolvimento de software, APIs, integrações e processos.
 
 Tenho experiência como **Analista de Requisitos** em projetos de inovação, saúde digital e sistemas corporativos, além de experiência como **Desenvolvedora Full-stack**. Gosto de transformar necessidades de usuários e objetivos de negócio em requisitos claros, rastreáveis e viáveis para equipes técnicas.
 
@@ -22,9 +22,34 @@ No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias 
 
 <div align="center">
 
-`Analista de Requisitos` &nbsp; `Desenvolvedora Full-stack` &nbsp; `Estudante de Sistemas de Informação`
+`Analista de Projetos e Processos` &nbsp; `Engenharia de Requisitos` &nbsp; `Desenvolvimento de Software` &nbsp; `APIs e Integrações`
 
 </div>
+
+## Destaques profissionais
+
+<table>
+	<tr>
+		<td width="50%" valign="top">
+			<strong>Atuação atual</strong>
+			<p>Vínculo profissional com a <strong>OSF Digital</strong> e experiência como desenvolvedora Full-stack no Núcleo de Práticas de Informática da UFC.</p>
+		</td>
+		<td width="50%" valign="top">
+			<strong>Conquista acadêmica</strong>
+			<p>Trabalho de Conclusão de Curso aprovado com <strong>nota máxima</strong>, sobre Design Thinking e elicitação de requisitos no sistema AlertAlergo.</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top">
+			<strong>Conexões profissionais</strong>
+			<p>Mais de 400 conexões e 410 seguidores no LinkedIn, com presença profissional voltada a tecnologia, processos e produto.</p>
+		</td>
+		<td width="50%" valign="top">
+			<strong>Disponibilidade</strong>
+			<p>Aberta a oportunidades em <strong>Fortaleza e região</strong>, nos formatos híbrido ou remoto.</p>
+		</td>
+	</tr>
+</table>
 
 ## Trajetória profissional
 
