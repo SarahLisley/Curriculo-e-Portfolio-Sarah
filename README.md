@@ -46,7 +46,7 @@ No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias 
 		</td>
 		<td width="50%" valign="top">
 			<strong>Disponibilidade</strong>
-			<p>Aberta a oportunidades em <strong>Fortaleza e região</strong>, nos formatos híbrido ou remoto.</p>
+			<p>Aberta a oportunidades em <strong>Fortaleza, Ceará, Brasil</strong>, nos formatos <strong>híbrido ou remoto</strong>.</p>
 		</td>
 	</tr>
 </table>
