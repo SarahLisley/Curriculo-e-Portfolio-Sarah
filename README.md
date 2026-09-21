@@ -113,6 +113,19 @@ No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias 
 <img src="https://img.shields.io/badge/Design%20Thinking-4BA3C7?style=flat-square&logoColor=white" alt="Design Thinking" />
 <img src="https://img.shields.io/badge/Scrum-172B3A?style=flat-square&logo=scrumalliance&logoColor=white" alt="Scrum" />
 <img src="https://img.shields.io/badge/Kanban-D4AF37?style=flat-square&logoColor=111111" alt="Kanban" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+<img src="https://img.shields.io/badge/Jupyter-FFFFFF?style=flat-square&logo=jupyter&logoColor=F37626" alt="Jupyter Notebook" />
+
+</div>
+
+## Presença no GitHub
+
+<div align="center">
+
+<img src="https://img.shields.io/github/public-repos/SarahLisley?style=for-the-badge&label=Reposit%C3%B3rios%20p%C3%BAblicos&color=4BA3C7" alt="Repositórios públicos" />
+<img src="https://img.shields.io/github/followers/SarahLisley?style=for-the-badge&label=Seguidores&color=D4AF37" alt="Seguidores" />
+<img src="https://img.shields.io/github/following/SarahLisley?style=for-the-badge&label=Seguindo&color=172B3A" alt="Pessoas seguindo" />
+<a href="https://github.com/SarahLisley?tab=repositories"><img src="https://img.shields.io/badge/Explorar%20todos%20os%20projetos-GitHub-8ED8F8?style=for-the-badge&logo=github&logoColor=172B3A" alt="Explorar todos os projetos no GitHub" /></a>
 
 </div>
 
@@ -121,12 +134,12 @@ No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias 
 <table>
 	<tr>
 		<td width="50%" valign="top">
-			<h3>Nutri Livre</h3>
+			<h3><a href="https://github.com/SarahLisley/NutriLivre03">Nutri Livre</a></h3>
 			<p>Aplicativo mobile desenvolvido no curso de Sistemas de Informação da UFC para apoiar o planejamento de dietas flexíveis, o registro de refeições e o controle de macronutrientes.</p>
 			<p><strong>Status:</strong> Concluído · <strong>Área:</strong> Desenvolvimento</p>
 		</td>
 		<td width="50%" valign="top">
-			<h3>AlertAlergo</h3>
+			<h3><a href="https://github.com/SarahLisley/Documento-de-Requisitos-Manual-do-AlertAlergo">AlertAlergo</a></h3>
 			<p>Projeto voltado à identificação e comunicação de alergias em contexto de saúde, com foco em requisitos, Design Thinking, protótipos, regras de negócio e documentação técnica.</p>
 			<p><strong>Status:</strong> Em andamento · <strong>Área:</strong> Engenharia de Requisitos</p>
 		</td>
@@ -141,6 +154,48 @@ No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias 
 			<h3>Acha AI</h3>
 			<p>Projeto de extensão concluído, desenvolvido em parceria no contexto universitário.</p>
 			<p><strong>Status:</strong> Concluído · <strong>Área:</strong> Extensão</p>
+		</td>
+	</tr>
+</table>
+
+## Outros projetos no GitHub
+
+<table>
+	<tr>
+		<td width="50%" valign="top">
+			<h3><a href="https://github.com/SarahLisley/Portifolio">Portfólio profissional</a></h3>
+			<p>Repositório com o PDF do portfólio profissional.</p>
+			<img src="https://img.shields.io/badge/PDF-Portf%C3%B3lio-D4AF37?style=flat-square&logo=adobeacrobatreader&logoColor=111111" alt="PDF de portfólio" />
+		</td>
+		<td width="50%" valign="top">
+			<h3><a href="https://github.com/SarahLisley/VueProject">VueProject</a></h3>
+			<p>Projeto front-end em TypeScript com estrutura de aplicação Vue, testes end-to-end e configuração de qualidade.</p>
+			<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+			<img src="https://img.shields.io/badge/Vue-42B883?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
+		</td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top">
+			<h3><a href="https://github.com/SarahLisley/TrabalhoMobile">Projetos mobile</a></h3>
+			<p>Repositório de atividades e aplicações Android desenvolvidas com Gradle e Kotlin.</p>
+			<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+		</td>
+		<td width="50%" valign="top">
+			<h3><a href="https://github.com/SarahLisley/MineracaodeDados">Mineração de dados</a></h3>
+			<p>Notebooks de estudo com exercícios de limpeza e agrupamento de dados.</p>
+			<img src="https://img.shields.io/badge/Jupyter-FFFFFF?style=flat-square&logo=jupyter&logoColor=F37626" alt="Jupyter Notebook" />
+			<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+		</td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top">
+			<h3><a href="https://github.com/SarahLisley/TasksManagerApp">TasksManagerApp</a></h3>
+			<p>Aplicação mobile de gerenciamento de tarefas desenvolvida em um projeto Android.</p>
+		</td>
+		<td width="50%" valign="top">
+			<h3><a href="https://github.com/SarahLisley/JavaScript-Projeto">JavaScript-Projeto</a></h3>
+			<p>Exercícios e aplicações web em JavaScript, incluindo formulários, tabelas e interfaces.</p>
+			<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
 		</td>
 	</tr>
 </table>
