@@ -118,18 +118,6 @@ No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias 
 
 </div>
 
-## Presença no GitHub
-
-<div align="center">
-
-<strong>37</strong> repositórios públicos &nbsp; · &nbsp; <strong>3</strong> seguidores &nbsp; · &nbsp; <strong>6</strong> seguindo
-
-<br />
-
-<a href="https://github.com/SarahLisley?tab=repositories">Explorar todos os projetos no GitHub</a>
-
-</div>
-
 ## Projetos que contam um pouco da minha trajetória
 
 <table>
