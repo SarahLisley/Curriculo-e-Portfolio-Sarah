@@ -12,23 +12,6 @@
 
 </div>
 
-<table>
-	<tr>
-		<td align="center" width="33%">
-			<strong>CONSTRUIR</strong><br />
-			<sub>Desenvolvimento Full-stack</sub>
-		</td>
-		<td align="center" width="33%">
-			<strong>ENTENDER</strong><br />
-			<sub>Requisitos e processos</sub>
-		</td>
-		<td align="center" width="33%">
-			<strong>INOVAR</strong><br />
-			<sub>Produtos digitais com propósito</sub>
-		</td>
-	</tr>
-</table>
-
 ## Sobre mim
 
 Sou **Sarah Lisley Saraiva Soares**, profissional em formação com atuação **Full-stack e em Engenharia de Requisitos**, graduanda em **Sistemas de Informação pela Universidade Federal do Ceará (UFC)** e técnica em Informática. Meu foco está na conexão entre **processos, produtos digitais e inovação**.
