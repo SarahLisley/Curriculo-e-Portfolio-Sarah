@@ -187,13 +187,13 @@ No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias 
 <table>
 	<tr>
 		<td width="50%" valign="top">
-			<h3>Portfólio profissional</h3>
+			<h3><a href="https://github.com/SarahLisley/Portifolio">Portfólio profissional</a></h3>
 			<p>Repositório com o PDF do portfólio profissional.</p>
 			<p><strong>Formato:</strong> PDF e documentação</p>
 			<img src="https://img.shields.io/badge/PDF-Portf%C3%B3lio-D4AF37?style=flat-square&logo=adobeacrobatreader&logoColor=111111" alt="PDF de portfólio" />
 		</td>
 		<td width="50%" valign="top">
-			<h3>VueProject</h3>
+			<h3><a href="https://github.com/SarahLisley/VueProject">VueProject</a></h3>
 			<p>Projeto front-end em TypeScript com estrutura de aplicação Vue, testes end-to-end e configuração de qualidade.</p>
 			<p><strong>Linguagens:</strong> TypeScript, Vue e HTML</p>
 			<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -202,13 +202,13 @@ No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias 
 	</tr>
 	<tr>
 		<td width="50%" valign="top">
-			<h3>Projetos mobile</h3>
+			<h3><a href="https://github.com/SarahLisley/TrabalhoMobile">Projetos mobile</a></h3>
 			<p>Repositório de atividades e aplicações Android desenvolvidas com Gradle e Kotlin.</p>
 			<p><strong>Linguagens:</strong> Kotlin e Gradle Kotlin DSL</p>
 			<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
 		</td>
 		<td width="50%" valign="top">
-			<h3>Mineração de dados</h3>
+			<h3><a href="https://github.com/SarahLisley/MineracaodeDados">Mineração de dados</a></h3>
 			<p>Notebooks de estudo com exercícios de limpeza e agrupamento de dados.</p>
 			<p><strong>Linguagem:</strong> Jupyter Notebook</p>
 			<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
@@ -217,13 +217,13 @@ No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias 
 	</tr>
 	<tr>
 		<td width="50%" valign="top">
-			<h3>TasksManagerApp</h3>
+			<h3><a href="https://github.com/SarahLisley/TasksManagerApp">TasksManagerApp</a></h3>
 			<p>Aplicação mobile de gerenciamento de tarefas desenvolvida em um projeto Android.</p>
 			<p><strong>Linguagens:</strong> Kotlin e Gradle Kotlin DSL</p>
 			<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
 		</td>
 		<td width="50%" valign="top">
-			<h3>JavaScript-Projeto</h3>
+			<h3><a href="https://github.com/SarahLisley/JavaScript-Projeto">JavaScript-Projeto</a></h3>
 			<p>Exercícios e aplicações web em JavaScript, incluindo formulários, tabelas e interfaces.</p>
 			<p><strong>Linguagens:</strong> JavaScript, HTML e CSS</p>
 			<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
