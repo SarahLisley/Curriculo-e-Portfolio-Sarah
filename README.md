@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8ED8F8,55:4BA3C7,100:D4AF37&height=220&section=header&text=Sarah%20Lisley&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Sistemas%20de%20Informa%C3%A7%C3%A3o%20%7C%20Requisitos%20%7C%20Full-stack&descAlignY=62&descSize=18&animation=fadeIn" alt="Banner Sarah Lisley" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8ED8F8,55:4BA3C7,100:D4AF37&height=220&section=header&text=Sarah%20Lisley&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Full-stack%20%7C%20Engenharia%20de%20Requisitos%20%7C%20Processos%20e%20Inova%C3%A7%C3%A3o&descAlignY=62&descSize=18&animation=fadeIn" alt="Banner Sarah Lisley" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=21&duration=2800&pause=900&color=4BA3C7&center=true&vCenter=true&width=700&lines=Transformo+necessidades+em+solu%C3%A7%C3%B5es+claras.;Entre+requisitos%2C+produto+e+c%C3%B3digo.;Construo+com+curiosidade%2C+m%C3%A9todo+e+inten%C3%A7%C3%A3o." alt="Animação de texto" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=21&duration=2800&pause=900&color=4BA3C7&center=true&vCenter=true&width=700&lines=Construo+produtos+digitais+com+vis%C3%A3o+de+ponta+a+ponta.;Conecto+processos%2C+requisitos+e+desenvolvimento.;Transformo+inova%C3%A7%C3%A3o+em+solu%C3%A7%C3%B5es+vi%C3%A1veis." alt="Animação de texto" /></a>
 
 <p>
 	<a href="https://github.com/SarahLisley"><img src="https://img.shields.io/badge/GitHub-SarahLisley-172B3A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -14,15 +14,15 @@
 
 ## Sobre mim
 
-Sou **Sarah Lisley Saraiva Soares**, **Analista de Projetos e Processos**, graduanda em **Sistemas de Informação pela Universidade Federal do Ceará (UFC)** e técnica em Informática. Minha atuação conecta Engenharia de Requisitos, desenvolvimento de software, APIs, integrações e processos.
+Sou **Sarah Lisley Saraiva Soares**, profissional em formação com atuação **Full-stack e em Engenharia de Requisitos**, graduanda em **Sistemas de Informação pela Universidade Federal do Ceará (UFC)** e técnica em Informática. Meu foco está na conexão entre **processos, produtos digitais e inovação**.
 
-Tenho experiência como **Analista de Requisitos** em projetos de inovação, saúde digital e sistemas corporativos, além de experiência como **Desenvolvedora Full-stack**. Gosto de transformar necessidades de usuários e objetivos de negócio em requisitos claros, rastreáveis e viáveis para equipes técnicas.
+Tenho experiência como **Analista de Requisitos** em projetos de inovação, saúde digital e sistemas corporativos, além de experiência como **Desenvolvedora Full-stack**. Atuo da compreensão do problema à implementação, transformando necessidades de usuários e objetivos de negócio em produtos e requisitos claros, rastreáveis e viáveis para equipes técnicas.
 
 No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias de usuário, critérios de aceitação, regras de negócio, fluxos, prototipação no Figma, validação de funcionalidades, testes de software, organização de backlog e comunicação com stakeholders.
 
 <div align="center">
 
-`Analista de Projetos e Processos` &nbsp; `Engenharia de Requisitos` &nbsp; `Desenvolvimento de Software` &nbsp; `APIs e Integrações`
+`Full-stack` &nbsp; `Engenharia de Requisitos` &nbsp; `Processos` &nbsp; `Produtos Digitais` &nbsp; `Inovação`
 
 </div>
 
