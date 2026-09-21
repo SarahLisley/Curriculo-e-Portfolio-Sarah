@@ -68,7 +68,7 @@ No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias 
 		<td width="33%" valign="top">
 			<strong>Universidade Federal do Ceará</strong><br />
 			<small>2022 – 2025</small>
-			<p><strong>Bolsista de Iniciação Acadêmica (BIA)</strong>, com atuação no projeto <strong>UFC++ Verde</strong>, voltado ao estudo de aquarismo e ao desenvolvimento de um sistema de automação para aquários.</p>
+			<p><strong>Bolsista de Iniciação Acadêmica (BIA)</strong>, com atuação em pesquisa, organização de atividades e acompanhamento de iniciativas acadêmicas.</p>
 		</td>
 	</tr>
 	<tr>
@@ -167,7 +167,7 @@ No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias 
 	<tr>
 		<td width="50%" valign="top">
 			<h3>UFC++ Verde</h3>
-			<p>Projeto de iniciação acadêmica sobre aquarismo e desenvolvimento de um sistema de automação para aquários, com organização de backlog, Scrum e acompanhamento de sprints.</p>
+			<p>Projeto de desenvolvimento de um sistema de automação para aquários, com organização de backlog, aplicação de Scrum, reuniões diárias e acompanhamento de sprints.</p>
 			<p><strong>Linguagens:</strong> não identificadas no portfólio público</p>
 			<img src="https://img.shields.io/badge/Projeto%20acad%C3%AAmico-4BA3C7?style=flat-square&logo=googlescholar&logoColor=white" alt="Projeto acadêmico" />
 			<p><strong>Status:</strong> Concluído · <strong>Área:</strong> Desenvolvimento e inovação</p>
