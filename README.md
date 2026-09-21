@@ -62,7 +62,7 @@ No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias 
 		</td>
 		<td width="33%" valign="top">
 			<strong>Bravo Tecnologia e Inovação</strong><br />
-			<small>2026</small>
+			<small>2026 – 2026</small>
 			<p>Desenvolvedora Full-stack em sistemas web corporativos, com TypeScript, React, Next.js, Node.js, SQL, APIs, testes e Figma.</p>
 		</td>
 		<td width="33%" valign="top">
@@ -79,7 +79,7 @@ No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias 
 		</td>
 		<td width="33%" valign="top">
 			<strong>EEF Monsenhor Manoel Cândido</strong><br />
-			<small>2021</small>
+			<small>2021 – 2021</small>
 			<p>Estagiária bolsista com apoio administrativo, pedagógico e tecnológico no ambiente escolar.</p>
 		</td>
 		<td width="33%" valign="top">
