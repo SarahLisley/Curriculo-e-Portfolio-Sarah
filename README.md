@@ -114,7 +114,7 @@ No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias 
 <img src="https://img.shields.io/badge/Scrum-172B3A?style=flat-square&logo=scrumalliance&logoColor=white" alt="Scrum" />
 <img src="https://img.shields.io/badge/Kanban-D4AF37?style=flat-square&logoColor=111111" alt="Kanban" />
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-<img src="https://img.shields.io/badge/Jupyter-FFFFFF?style=flat-square&logo=jupyter&logoColor=F37626" alt="Jupyter Notebook" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
 
 </div>
 
@@ -185,7 +185,7 @@ No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias 
 			<h3><a href="https://github.com/SarahLisley/MineracaodeDados">Mineração de dados</a></h3>
 			<p>Notebooks de estudo com exercícios de limpeza e agrupamento de dados.</p>
 			<p><strong>Linguagem:</strong> Jupyter Notebook</p>
-			<img src="https://img.shields.io/badge/Jupyter-FFFFFF?style=flat-square&logo=jupyter&logoColor=F37626" alt="Jupyter Notebook" />
+			<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
 			<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 		</td>
 	</tr>
