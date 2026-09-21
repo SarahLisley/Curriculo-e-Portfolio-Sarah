@@ -26,6 +26,81 @@ No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias 
 
 </div>
 
+## Trajetória profissional
+
+<table>
+	<tr>
+		<td width="33%" valign="top">
+			<strong>OSF Digital</strong><br />
+			<small>2026 · atual</small>
+			<p>Bolsista em capacitação linguística, com foco no desenvolvimento da comunicação oral e escrita em inglês.</p>
+		</td>
+		<td width="33%" valign="top">
+			<strong>Bravo Tecnologia e Inovação</strong><br />
+			<small>2026</small>
+			<p>Estagiária desenvolvedora full-stack em sistemas web corporativos, com TypeScript, React, Next.js, Node.js, SQL, APIs, testes e Figma.</p>
+		</td>
+		<td width="33%" valign="top">
+			<strong>Universidade Federal do Ceará</strong><br />
+			<small>2022 – 2025</small>
+			<p>Bolsista de Iniciação Acadêmica e desenvolvedora full-stack no Núcleo de Práticas em Informática, participando do desenvolvimento de aplicações web.</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="33%" valign="top">
+			<strong>Ministério da Ciência, Tecnologia e Inovações</strong><br />
+			<small>2025 · atual</small>
+			<p>Analista de Requisitos no projeto AlertAlergo, atuando com Design Thinking, UX/UI, elicitação, análise, documentação e refinamento de requisitos.</p>
+		</td>
+		<td width="33%" valign="top">
+			<strong>EEF Monsenhor Manoel Cândido</strong><br />
+			<small>2021</small>
+			<p>Estagiária bolsista com apoio administrativo, pedagógico e tecnológico no ambiente escolar.</p>
+		</td>
+		<td width="33%" valign="top">
+			<strong>UFC++ Verde</strong><br />
+			<small>2023 – 2025</small>
+			<p>Bolsista e voluntária em projeto de extensão sobre aquarismo, automação e organização ágil de projetos.</p>
+		</td>
+	</tr>
+</table>
+
+## Formação e aperfeiçoamento
+
+- **Graduação em Sistemas de Informação** — Universidade Federal do Ceará, em andamento desde 2022.
+- **Curso técnico em Informática** — EEEP Clemente Olinto Távora Arruda, 2018–2020.
+- **Python** — Santander Open Academy, 2026.
+- **Prompting responsável: maximizar a IA no seu negócio** — Santander Open Academy, 2026.
+- **Power BI** — Santander Open Academy, 2026.
+- **Gestão eficaz de projetos e equipes** — Santander Open Academy, 2026.
+- **Storytelling para marketing digital** — Santander Open Academy, 2026.
+- **Transformação Digital** — MIT Professional Education, 2025.
+- **Comunicação Efetiva** — Santander Open Academy, 2025.
+- **Figmalab: do zero ao avançado** — Universidade Federal do Ceará, 2023.
+- **Workshop de Tecnologia da Informação do Sertão Central** — Universidade Federal do Ceará, 2022.
+
+## Áreas de atuação
+
+<div align="center">
+
+`Engenharia de Requisitos` &nbsp; `Engenharia de Software` &nbsp; `UI/UX` &nbsp; `Análise de Projetos` &nbsp; `Power BI` &nbsp; `Banco de Dados`
+
+</div>
+
+## Idiomas
+
+| Idioma | Compreensão | Fala | Leitura | Escrita |
+| --- | --- | --- | --- | --- |
+| Inglês | Bem | Bem | Bem | Bem |
+| Espanhol | Bem | Bem | Bem | Bem |
+
+## Reconhecimentos e produção
+
+- **1º lugar na II Feira de Ciências e Tecnologias**, na área de Robótica Educacional — EEEP Clemente Olinto Távora Arruda, 2019.
+- **Aplicação do Design Thinking na Elicitação de Requisitos do Sistema AlertAlergo** — relato de experiência técnico-científico, 2026.
+- **Inclusão de Libras na Educação de Ouvintes**, **Tailoring**, **Uma solução automatizada para Transporte Universitário**, **Usabilidade em Internet Bankings** e **Ecossistema de Software** — apresentações de trabalho entre 2022 e 2025.
+- Produções técnicas sobre **elicitação de requisitos com stakeholders**, **projetos ágeis**, **especificação de requisitos funcionais e não funcionais**, além de **casos de uso, diagramas UML, histórias de usuário e documentação técnica**.
+
 ## Tecnologias e ferramentas
 
 <div align="center">
