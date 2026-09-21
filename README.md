@@ -137,11 +137,13 @@ No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias 
 		<td width="50%" valign="top">
 			<h3><a href="https://github.com/SarahLisley/NutriLivre03">Nutri Livre</a></h3>
 			<p>Aplicativo mobile desenvolvido no curso de Sistemas de Informação da UFC para apoiar o planejamento de dietas flexíveis, o registro de refeições e o controle de macronutrientes.</p>
+			<p><strong>Linguagens:</strong> não identificadas no repositório público</p>
 			<p><strong>Status:</strong> Concluído · <strong>Área:</strong> Desenvolvimento</p>
 		</td>
 		<td width="50%" valign="top">
 			<h3><a href="https://github.com/SarahLisley/Documento-de-Requisitos-Manual-do-AlertAlergo">AlertAlergo</a></h3>
 			<p>Projeto voltado à identificação e comunicação de alergias em contexto de saúde, com foco em requisitos, Design Thinking, protótipos, regras de negócio e documentação técnica.</p>
+			<p><strong>Linguagens:</strong> documentação de requisitos; código não identificado no repositório público</p>
 			<p><strong>Status:</strong> Em andamento · <strong>Área:</strong> Engenharia de Requisitos</p>
 		</td>
 	</tr>
@@ -149,11 +151,13 @@ No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias 
 		<td width="50%" valign="top">
 			<h3>UFC++ Verde</h3>
 			<p>Projeto de iniciação acadêmica sobre aquarismo e desenvolvimento de um sistema de automação para aquários, com organização de backlog, Scrum e acompanhamento de sprints.</p>
+			<p><strong>Linguagens:</strong> não identificadas no portfólio público</p>
 			<p><strong>Status:</strong> Concluído · <strong>Área:</strong> Desenvolvimento e inovação</p>
 		</td>
 		<td width="50%" valign="top">
 			<h3>Acha AI</h3>
 			<p>Projeto de extensão concluído, desenvolvido em parceria no contexto universitário.</p>
+			<p><strong>Linguagens:</strong> não identificadas no portfólio público</p>
 			<p><strong>Status:</strong> Concluído · <strong>Área:</strong> Extensão</p>
 		</td>
 	</tr>
@@ -166,11 +170,13 @@ No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias 
 		<td width="50%" valign="top">
 			<h3><a href="https://github.com/SarahLisley/Portifolio">Portfólio profissional</a></h3>
 			<p>Repositório com o PDF do portfólio profissional.</p>
+			<p><strong>Formato:</strong> PDF e documentação</p>
 			<img src="https://img.shields.io/badge/PDF-Portf%C3%B3lio-D4AF37?style=flat-square&logo=adobeacrobatreader&logoColor=111111" alt="PDF de portfólio" />
 		</td>
 		<td width="50%" valign="top">
 			<h3><a href="https://github.com/SarahLisley/VueProject">VueProject</a></h3>
 			<p>Projeto front-end em TypeScript com estrutura de aplicação Vue, testes end-to-end e configuração de qualidade.</p>
+			<p><strong>Linguagens:</strong> TypeScript, Vue e HTML</p>
 			<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 			<img src="https://img.shields.io/badge/Vue-42B883?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
 		</td>
@@ -179,11 +185,13 @@ No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias 
 		<td width="50%" valign="top">
 			<h3><a href="https://github.com/SarahLisley/TrabalhoMobile">Projetos mobile</a></h3>
 			<p>Repositório de atividades e aplicações Android desenvolvidas com Gradle e Kotlin.</p>
+			<p><strong>Linguagens:</strong> Kotlin e Gradle Kotlin DSL</p>
 			<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
 		</td>
 		<td width="50%" valign="top">
 			<h3><a href="https://github.com/SarahLisley/MineracaodeDados">Mineração de dados</a></h3>
 			<p>Notebooks de estudo com exercícios de limpeza e agrupamento de dados.</p>
+			<p><strong>Linguagem:</strong> Jupyter Notebook</p>
 			<img src="https://img.shields.io/badge/Jupyter-FFFFFF?style=flat-square&logo=jupyter&logoColor=F37626" alt="Jupyter Notebook" />
 			<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 		</td>
@@ -192,10 +200,12 @@ No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias 
 		<td width="50%" valign="top">
 			<h3><a href="https://github.com/SarahLisley/TasksManagerApp">TasksManagerApp</a></h3>
 			<p>Aplicação mobile de gerenciamento de tarefas desenvolvida em um projeto Android.</p>
+			<p><strong>Linguagens:</strong> Kotlin e Gradle Kotlin DSL</p>
 		</td>
 		<td width="50%" valign="top">
 			<h3><a href="https://github.com/SarahLisley/JavaScript-Projeto">JavaScript-Projeto</a></h3>
 			<p>Exercícios e aplicações web em JavaScript, incluindo formulários, tabelas e interfaces.</p>
+			<p><strong>Linguagens:</strong> JavaScript, HTML e CSS</p>
 			<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
 		</td>
 	</tr>
