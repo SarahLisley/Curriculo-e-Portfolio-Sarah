@@ -68,7 +68,7 @@ No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias 
 		<td width="33%" valign="top">
 			<strong>Universidade Federal do Ceará</strong><br />
 			<small>2022 – 2025</small>
-			<p>Bolsista de Iniciação Acadêmica e desenvolvedora full-stack no Núcleo de Práticas em Informática, participando do desenvolvimento de aplicações web.</p>
+			<p><strong>Bolsista de Iniciação Acadêmica (BIA)</strong>, com atuação no projeto <strong>UFC++ Verde</strong>, voltado ao estudo de aquarismo e ao desenvolvimento de um sistema de automação para aquários.</p>
 		</td>
 	</tr>
 	<tr>
