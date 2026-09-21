@@ -105,11 +105,12 @@ No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,java,spring,vue,python,sql,git,github,figma" alt="Tecnologias: TypeScript, React, Next.js, Node.js, Java, Spring, Vue, Python, SQL, Git, GitHub e Figma" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,java,spring,vue,python,git,github,figma" alt="Tecnologias: TypeScript, React, Next.js, Node.js, Java, Spring, Vue, Python, Git, GitHub e Figma" />
 
 <br />
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111" alt="Power BI" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
 <img src="https://img.shields.io/badge/Design%20Thinking-4BA3C7?style=flat-square&logoColor=white" alt="Design Thinking" />
 <img src="https://img.shields.io/badge/Scrum-172B3A?style=flat-square&logo=scrumalliance&logoColor=white" alt="Scrum" />
 <img src="https://img.shields.io/badge/Kanban-D4AF37?style=flat-square&logoColor=111111" alt="Kanban" />
