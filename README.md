@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8ED8F8,55:4BA3C7,100:D4AF37&height=220&section=header&text=Sarah%20Lisley&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Full-stack%20%7C%20Engenharia%20de%20Requisitos%20%7C%20Processos%20e%20Inova%C3%A7%C3%A3o&descAlignY=62&descSize=18&animation=fadeIn" alt="Banner Sarah Lisley" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=21&duration=2800&pause=900&color=4BA3C7&center=true&vCenter=true&width=700&lines=Construo+produtos+digitais+com+vis%C3%A3o+de+ponta+a+ponta.;Conecto+processos%2C+requisitos+e+desenvolvimento.;Transformo+inova%C3%A7%C3%A3o+em+solu%C3%A7%C3%B5es+vi%C3%A1veis." alt="Animação de texto" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=21&duration=2800&pause=900&color=4BA3C7&center=true&vCenter=true&width=700&lines=Transformo+inova%C3%A7%C3%A3o+em+solu%C3%A7%C3%B5es.;Conecto+processos%2C+requisitos+e+desenvolvimento.;Construo+produtos+digitais+de+ponta+a+ponta." alt="Animação de texto" /></a>
 
 <p>
 	<a href="https://github.com/SarahLisley"><img src="https://img.shields.io/badge/GitHub-SarahLisley-172B3A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -11,6 +11,23 @@
 </p>
 
 </div>
+
+<table>
+	<tr>
+		<td align="center" width="33%">
+			<strong>CONSTRUIR</strong><br />
+			<sub>Desenvolvimento Full-stack</sub>
+		</td>
+		<td align="center" width="33%">
+			<strong>ENTENDER</strong><br />
+			<sub>Requisitos e processos</sub>
+		</td>
+		<td align="center" width="33%">
+			<strong>INOVAR</strong><br />
+			<sub>Produtos digitais com propósito</sub>
+		</td>
+	</tr>
+</table>
 
 ## Sobre mim
 
