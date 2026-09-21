@@ -92,7 +92,7 @@ No dia a dia, trabalho com elicitação e refinamento de requisitos, histórias 
 
 ## Formação e aperfeiçoamento
 
-- **Graduação em Sistemas de Informação** — Universidade Federal do Ceará, em andamento desde 2022.
+- **Graduação em Sistemas de Informação** — Universidade Federal do Ceará, 2022–2026.
 - **Curso técnico em Informática** — EEEP Clemente Olinto Távora Arruda, 2018–2020.
 - **Python** — Santander Open Academy, 2026.
 - **Prompting responsável: maximizar a IA no seu negócio** — Santander Open Academy, 2026.
